@@ -1,7 +1,9 @@
 ---
-title: "Tides of Change: How BlueNalu's Regulatory Triumph is Rewriting the Future of Seafood"
 date: 2026-10-01
+featured_image: /images/longread_2026-10-01_en.png
 language: en
+title: 'Tides of Change: How BlueNalu''s Regulatory Triumph is Rewriting the Future
+  of Seafood'
 ---
 
 # Tides of Change: How BlueNalu's Regulatory Triumph is Rewriting the Future of Seafood

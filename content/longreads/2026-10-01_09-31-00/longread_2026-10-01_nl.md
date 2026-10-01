@@ -1,7 +1,9 @@
 ---
-title: "De Blauwe Revolutie: Hoe Cel-Gekweekte Zeevoeding Onze Oceanen Redt en de Toekomst Vormt"
 date: 2026-10-01
+featured_image: /images/longread_2026-10-01_nl.png
 language: nl
+title: 'De Blauwe Revolutie: Hoe Cel-Gekweekte Zeevoeding Onze Oceanen Redt en de
+  Toekomst Vormt'
 ---
 
 # De Blauwe Revolutie: Hoe Cel-Gekweekte Zeevoeding Onze Oceanen Redt en de Toekomst Vormt
