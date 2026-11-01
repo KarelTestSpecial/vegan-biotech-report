@@ -1,7 +1,9 @@
 ---
-title: "The Great Shell Crack: How Precision Fermentation and Industrial Alliances Are Reinventing Baking"
 date: 2026-11-01
+featured_image: /images/longread_2026-11-01_en.png
 language: en
+title: 'The Great Shell Crack: How Precision Fermentation and Industrial Alliances
+  Are Reinventing Baking'
 ---
 
 # The Great Shell Crack: How Precision Fermentation and Industrial Alliances Are Reinventing Baking

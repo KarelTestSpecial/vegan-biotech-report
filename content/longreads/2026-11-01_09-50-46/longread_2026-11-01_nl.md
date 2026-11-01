@@ -1,7 +1,9 @@
 ---
-title: "De Eiwitrevolutie in de Keuken: Hoe Precisiefermentatie en Industriële Allianties de Professionele Bakkerij Veranderen"
 date: 2026-11-01
+featured_image: /images/longread_2026-11-01_nl.png
 language: nl
+title: 'De Eiwitrevolutie in de Keuken: Hoe Precisiefermentatie en Industriële Allianties
+  de Professionele Bakkerij Veranderen'
 ---
 
 # De Eiwitrevolutie in de Keuken: Hoe Precisiefermentatie en Industriële Allianties de Professionele Bakkerij Veranderen
